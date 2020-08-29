@@ -1,8 +1,9 @@
 [tool.poetry]
 name = "matti"
 version = "0.1.0"
-description = ""
+description = "pattern match"
 authors = ["sh1ma <in9lude@gmail.com>"]
+repository = "https://github.com/sh1ma/matti"
 
 [tool.poetry.dependencies]
 python = "^3.8"
